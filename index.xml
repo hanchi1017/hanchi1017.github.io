@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanchi&#39;s Site</title>
+    <link>http://hanchi1017.github.io/</link>
+    <description>Recent content on Hanchi&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2017 13:32:37 +0800</lastBuildDate>
+    
+	<atom:link href="http://hanchi1017.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First blog</title>
+      <link>http://hanchi1017.github.io/post/first/</link>
+      <pubDate>Wed, 06 Dec 2017 13:32:37 +0800</pubDate>
+      
+      <guid>http://hanchi1017.github.io/post/first/</guid>
+      <description>My first blog hahaha</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://hanchi1017.github.io/about/</link>
+      <pubDate>Wed, 06 Dec 2017 13:31:16 +0800</pubDate>
+      
+      <guid>http://hanchi1017.github.io/about/</guid>
+      <description>I am a master student majoring in computer science from the Harbin Institute of Technology, welcome to contact me:)
+ email: hanchi.hit@gmail.com wechat: hanchi19941017 qq: 549407387  </description>
+    </item>
+    
+  </channel>
+</rss>
